@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1491460012 source:c:\users\alejandro\documents\stefi\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491527379 c:\users\alejandro\documents\stefi\tp_1\funciones.h
+
