@@ -17,6 +17,7 @@ void Suma(float A, float B, int flagA, int flagB)
         printf("Debe ingresar un valor para A y para B\n");
     }
 }
+
 /*
  * Función Resta
  * Recibe como parámetros los operandos A y B y los flags indicando si fueron definidos;
@@ -34,6 +35,7 @@ void Resta(float A, float B,int flagA,int flagB)
     }
 
 }
+
 /*
  * Función Division
  * Recibe como parámetros los operandos A y B y los flags indicando si fueron definidos;
@@ -56,6 +58,7 @@ void Division(float A, float B, int flagA, int flagB)
         printf("Debe ingresar un valor para A y para B\n");
     }
 }
+
 /*
  * Función Multiplicación
  * Recibe como parámetros los operandos A y B y los flags indicando si fueron definidos.
@@ -72,6 +75,7 @@ void Multiplicacion (float A, float B, int flagA, int flagB)
         printf("Debe ingresar un valor para A y para B\n");
     }
 }
+
 /*
  * Función Factorial
  * Recibe como parámetros el operando A y flagA para saber si fue definido.
@@ -110,6 +114,7 @@ void Factorial (float A, int flagA)
     }
 
 }
+
 /*
  * Función TodasLasOperaciones
  * Recibe como parámetros los operandos A y B y los flags indicando si fueron definidos.
@@ -133,6 +138,5 @@ void TodasLasOperaciones(float A, float B, int flagA, int flagB)
     }
 
 }
-
 
 #endif // FUNCIONES_H_INCLUDED
