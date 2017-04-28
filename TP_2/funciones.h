@@ -1,7 +1,7 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
 
-#define CANTIDAD 8
+#define CANTIDAD 20
 
 typedef struct {
 
