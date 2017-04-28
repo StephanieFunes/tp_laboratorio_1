@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1493355831 source:c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1493356139 c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2\funciones.h
+
+1493356122 source:c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<conio.h>
+
+1493263246 source:c:\users\stephy\dropbox\ideaprojects\tp_2\funciones.c
+	"funciones.h"
+
+1493262083 c:\users\stephy\dropbox\ideaprojects\tp_2\funciones.h
+
+1493263246 source:c:\users\stephy\dropbox\ideaprojects\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
