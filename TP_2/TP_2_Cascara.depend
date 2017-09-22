@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1505703975 source:c:\users\stephy\dropbox\tp_2_cascara (1)\funciones.c
+	"funciones.h"
+
+1505703667 c:\users\stephy\dropbox\tp_2_cascara (1)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1505705044 source:c:\users\stephy\dropbox\tp_2_cascara (1)\main.c
+	"funciones.h"
+
+1506051091 source:c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2_cascara (1)\main.c
+	"funciones.h"
+
+1506051078 c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2_cascara (1)\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1506051078 source:c:\users\alejandro\dropbox (personal)\ideaprojects\tp_2_cascara (1)\funciones.c
+	"funciones.h"
+
